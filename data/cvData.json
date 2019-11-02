@@ -1,0 +1,79 @@
+{
+  "cvData": {
+    "picturePath" : "path/to/picture/cvpicture.jpg",
+    "name": "Yari Mattei",
+    "address": "",
+    "city": "",
+    "phone": "",
+    "birth": "Born on 4 August 1989",
+    "maritalStatus": "Single",
+    "nationality": "Swiss nationality",
+    "email": "yari.mattei@gmail.com",
+    "education": [
+      {
+        "date": "Sept 2014 - June 2017",
+        "title": "Master of Science in Engineering",
+        "school": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Manno CH"
+      },
+      {
+        "date": "Sept 2009 - June 2013",
+        "title": "Bachelor of Science in Computer Science",
+        "school": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Manno CH"
+      },
+      {
+        "date": "Sept 2004 - June 2008",
+        "title": "Professional Technical Certificate and Federal Certificate of Competence as Elettronic",
+        "school": "Scuola d’Arti e Mestieri Trevano (SAMT), Canobbio CH"
+      }
+    ],
+    "workExperience": [
+      {
+        "date": "Mar 2017 - Feb 2020",
+        "percentage": "",
+        "company": "Institute for Information Systems and Networking (ISIN)",
+        "address": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Manno CH",
+        "role": "Researcher",
+        "tasks": ["Software development (2D camera people counter, heart valve 3D model)", "Homework and exam revisions"],
+        "skills": ["independence", "planning", "creativity"]
+      },
+      {
+        "date": "Sept 2014 - Feb 2017",
+        "percentage": "(Part-time 62.5%)",
+        "company": "Institute for Information Systems and Networking (ISIN)",
+        "address": "University of Applied Sciences and Arts of Southern Switzerland (SUPSI), Manno CH",
+        "role": "Research Assistant",
+        "tasks": ["Software development (Partner: Cardiocentro Ticino, Teq SA, SUPSI DEASS)", "Bachelor exams expert"],
+        "skills": ["autonomy", "organization", "proactiveness"]
+      },
+      {
+        "date": "Jan 2014 - Apr 2014",
+        "percentage": "",
+        "company": "TechHub,",
+        "address": "London",
+        "role": "IT and Administrative assistance internship",
+        "tasks": ["Meeting room manager software development", "Administrative assistance and customer support"],
+        "skills": ["dealing", "communication", "flexibility"]
+      }
+    ],
+    "extracurricularActivity": [
+      {
+        "date": "Sept 2009 - Sept 2013",
+        "percentage": "(thu. evening / sat. morning during studies)",
+        "company": "Manor SA",
+        "address": "Viganello CH",
+        "role": "Fruit and vegetable department collaborator",
+        "tasks": ["Goods supplying on the shelves", "Customer support", "Department rearranging and cleaning"],
+        "skills": ["adaptability", "spirit of sacrifice", "patience"]
+      },
+      {
+        "date": "Apr 2012 - Apr 2013",
+        "percentage": "",
+        "company": "Ganasa Guggen Band",
+        "address": "Tesserete CH",
+        "role": "Committee member",
+        "tasks": ["Website modernization and managing", "Organization of the association"],
+        "skills": ["team work", "managing", "responsibility"]
+      }
+    ]
+  }
+}
