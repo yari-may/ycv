@@ -5,10 +5,10 @@
     "address": "",
     "city": "",
     "phone": "",
-    "birth": "Born on 4 August 1989",
-    "maritalStatus": "Single",
+    "birth": "Born on 4 August 19XX",
+    "maritalStatus": "maritalStatus",
     "nationality": "Swiss nationality",
-    "email": "yari.mattei@gmail.com",
+    "email": "y@domain.com",
     "education": [
       {
         "date": "Sept 2014 - June 2017",
